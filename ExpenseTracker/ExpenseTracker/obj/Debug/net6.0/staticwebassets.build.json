@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vkrrhkmA9//Tz4SRqFiKnXldZTfa5jQF5Sa7irtxe0Y=",
+  "Hash": "d6Zy3GdJih2cxb0uQJJRG85gr+7JtfkVgJo+VHMVPeQ=",
   "Source": "ExpenseTracker",
   "BasePath": "_content/ExpenseTracker",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\brand\\Documents\\CodingSource\\Git\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\wwwroot\\favicon-16x16.png",
+      "SourceId": "ExpenseTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brand\\Documents\\CodingSource\\Git\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\wwwroot\\",
+      "BasePath": "_content/ExpenseTracker",
+      "RelativePath": "favicon-16x16.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon-16x16.png"
+    },
+    {
+      "Identity": "C:\\Users\\brand\\Documents\\CodingSource\\Git\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\wwwroot\\favicon-32x32.png",
+      "SourceId": "ExpenseTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brand\\Documents\\CodingSource\\Git\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\wwwroot\\",
+      "BasePath": "_content/ExpenseTracker",
+      "RelativePath": "favicon-32x32.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon-32x32.png"
     },
     {
       "Identity": "C:\\Users\\brand\\Documents\\CodingSource\\Git\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker\\wwwroot\\js\\site.js",
